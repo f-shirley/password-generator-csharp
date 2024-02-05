@@ -1,5 +1,0 @@
-C:\Users\dustt\Documents\1a Programming Programs\C# Password Generator\password-generator.exe
-C:\Users\dustt\Documents\1a Programming Programs\C# Password Generator\password-generator.dll
-C:\Users\dustt\Documents\1a Programming Programs\C# Password Generator\password-generator.deps.json
-C:\Users\dustt\Documents\1a Programming Programs\C# Password Generator\password-generator.runtimeconfig.json
-C:\Users\dustt\Documents\1a Programming Programs\C# Password Generator\password-generator.pdb
